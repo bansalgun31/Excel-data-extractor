@@ -150,3 +150,7 @@ Please follow the existing code style and conventions.  Ensure your code is well
 ## Acknowledgments
 
 -   The project utilizes the `xlsx` library for Excel parsing, `multer` for handling file uploads and `mongoose` for working with MongoDB.
+
+## License
+
+This project is licensed under the MIL License - see the LICENSE file for details.
